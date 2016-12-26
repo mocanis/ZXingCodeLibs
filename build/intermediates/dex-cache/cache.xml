@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chris/Music/ZXingCodeLibs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f159575397252c714c108b2108c8ad65b064160c">
+        <dex dex="/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb97d5fc8cf8db44bfb62ac47c2d1d7956dfeb90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/Music/ZXingCodeLibs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d52db84c45449b97628bf759d91d1490a4cf25b2">
+        <dex dex="/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a6ff9d9f21053133d55b1199f9e45d1915d677c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/Music/ZXingCodeLibs/app/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f739962ab47f4c7515705f7c29dfbf9240a544b8">
+        <dex dex="/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_0784023a1666b3c2c634810141b2419ffdf4ec46/classes.dex" />
+    </item>
+
+</items>

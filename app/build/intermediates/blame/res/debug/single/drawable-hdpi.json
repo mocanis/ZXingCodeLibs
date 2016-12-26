@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chris/Music/ZXingCodeLibs/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/chris/Music/ZXingCodeLibs/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chris/Music/ZXingCodeLibs/app/build/intermediates/res/merged/debug/drawable-hdpi/mzw_camera_close.png",
+        "source": "/home/chris/Music/ZXingCodeLibs/app/src/main/res/drawable-hdpi/mzw_camera_close.png"
+    },
+    {
+        "merged": "/home/chris/Music/ZXingCodeLibs/app/build/intermediates/res/merged/debug/drawable-hdpi/mzw_camera_open.png",
+        "source": "/home/chris/Music/ZXingCodeLibs/app/src/main/res/drawable-hdpi/mzw_camera_open.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Dec 27 00:34:22 CST 2016
+base.0=/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb97d5fc8cf8db44bfb62ac47c2d1d7956dfeb90
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a6ff9d9f21053133d55b1199f9e45d1915d677c/classes.dex
+base.1=/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a6ff9d9f21053133d55b1199f9e45d1915d677c
+file.0=/home/chris/Music/ZXingCodeLibs/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb97d5fc8cf8db44bfb62ac47c2d1d7956dfeb90/classes.dex
